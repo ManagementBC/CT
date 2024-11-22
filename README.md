@@ -5,10 +5,7 @@ This repository contains a smart contract and a Gradio-based interface for manag
 ## Files
 
 1. **Run_Gradio_interface_.ipynb**  
-   A Jupyter Notebook implementing a Gradio interface to interact with the clinical trial smart contract. This interface facilitates operations such as:
-   - Registering patients and trials
-   - Evaluating eligibility
-   - Managing approvals
+   A Jupyter Notebook implementing a Gradio interface to interact with the clinical trial smart contract. 
 
 2. **Management.sol**  
    Solidity smart contract for managing clinical trials. Key features include:
