@@ -1,4 +1,4 @@
-# Clinical Trial Management System
+# Patients–Clinical Trial Matching Management System
 
 This repository contains a smart contract and a Gradio-based interface for managing clinical trials, including patient registration, eligibility evaluation, and approval workflows.
 
